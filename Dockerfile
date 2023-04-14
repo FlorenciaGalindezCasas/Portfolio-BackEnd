@@ -1,4 +1,4 @@
-FROM amazoncorretto:19-alpino-jdk
+FROM amazoncorretto:19-alpine-jdk
 
 MAINTAINER Florencia
 
